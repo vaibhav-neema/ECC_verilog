@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
  
 
-module hamming_secded (
+module tt_um_hamming_secded (
           input [3:0] i_secded,
           input [4:0] i_noise,
           //output[6:0] o_7seg,
